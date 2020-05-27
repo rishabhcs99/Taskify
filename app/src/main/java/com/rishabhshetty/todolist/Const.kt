@@ -17,3 +17,4 @@ const val COL_IS_COLPLETED = "isCompleted"
 
 const val INTENT_TODO_ID="TodoId"
 const val INTENT_TODO_NAME="TodoName"
+const val ExtraVariable="TodoName"
